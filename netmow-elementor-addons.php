@@ -10,3 +10,4 @@
  * Domain Path: /languages
  * License: GPL2
  */
+if ( ! defined( 'ABSPATH' ) ) exit;
