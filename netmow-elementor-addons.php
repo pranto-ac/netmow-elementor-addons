@@ -11,3 +11,5 @@
  * License: GPL2
  */
 if ( ! defined( 'ABSPATH' ) ) exit;
+
+// Ensure the free version is deactivated if premium is running
